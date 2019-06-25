@@ -1,5 +1,4 @@
 <div align="center">
-    <img src="/paper/img/misc/hulk-logo-with-text.png?raw=true?" alt="hulk-logo" width="250">
     <h3><a style="color:#9900FF">H</a>istosketching <a style="color:#9900FF">U</a>sing <a style="color:#9900FF">L</a>ittle <a style="color:#9900FF">K</a>mers</h3>
     <hr>
     <a href="https://travis-ci.org/will-rowe/hulk"><img src="https://travis-ci.org/will-rowe/hulk.svg?branch=master" alt="travis"></a>
